@@ -1,0 +1,15 @@
+com.example.rohitashwa_singh_assignment.app-jetified-window-java-1.0.0-beta04-0 C:\Users\fanka\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.rohitashwa_singh_assignment.app-core-1.6.0-1 C:\Users\fanka\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.example.rohitashwa_singh_assignment.app-jetified-security-crypto-1.1.0-alpha04-2 C:\Users\fanka\.gradle\caches\transforms-3\721f6ff27a9d2d34046694447893c707\transformed\jetified-security-crypto-1.1.0-alpha04\res
+com.example.rohitashwa_singh_assignment.app-jetified-annotation-experimental-1.1.0-3 C:\Users\fanka\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.rohitashwa_singh_assignment.app-jetified-window-1.0.0-beta04-4 C:\Users\fanka\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.example.rohitashwa_singh_assignment.app-debug-5 D:\submissions\rohitashwa_singh_assignment\android\app\src\debug\res
+com.example.rohitashwa_singh_assignment.app-main-6 D:\submissions\rohitashwa_singh_assignment\android\app\src\main\res
+com.example.rohitashwa_singh_assignment.app-pngs-7 D:\submissions\rohitashwa_singh_assignment\build\app\generated\res\pngs\debug
+com.example.rohitashwa_singh_assignment.app-resValues-8 D:\submissions\rohitashwa_singh_assignment\build\app\generated\res\resValues\debug
+com.example.rohitashwa_singh_assignment.app-rs-9 D:\submissions\rohitashwa_singh_assignment\build\app\generated\res\rs\debug
+com.example.rohitashwa_singh_assignment.app-mergeDebugResources-10 D:\submissions\rohitashwa_singh_assignment\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.rohitashwa_singh_assignment.app-mergeDebugResources-11 D:\submissions\rohitashwa_singh_assignment\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.rohitashwa_singh_assignment.app-merged_res-12 D:\submissions\rohitashwa_singh_assignment\build\app\intermediates\merged_res\debug
+com.example.rohitashwa_singh_assignment.app-packaged_res-13 D:\submissions\rohitashwa_singh_assignment\build\flutter_secure_storage\intermediates\packaged_res\debug
+com.example.rohitashwa_singh_assignment.app-packaged_res-14 D:\submissions\rohitashwa_singh_assignment\build\path_provider_android\intermediates\packaged_res\debug
